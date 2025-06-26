@@ -18,7 +18,7 @@ Herramienta de línea de comandos (CLI) para convertir componentes de **Ember.js
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/jesusomardev/ember-to-lit-cli.git
+git clone https://github.com/JesusOmardev/CLI-Ember-to-lit.git
 cd ember-to-lit-cli
 
 # Instala dependencias
